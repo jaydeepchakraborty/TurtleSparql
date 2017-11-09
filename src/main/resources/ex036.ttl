@@ -1,0 +1,15 @@
+Ex.ttl
+====
+# filename: ex036.ttl
+ 
+@prefix ab: <http://learningsparql.com/ns/addressbook#> .
+ 
+ab:richard ab:homeTel "(229) 276-5135" .
+ab:richard ab:email   "richard49@hotmail.com"@en .
+ 
+ab:cindy ab:homeTel "(245) 646-5488" .
+ab:cindy ab:email   "cindym@gmail.com"@en.
+ 
+ab:craig ab:homeTel "(194) 966-1505" .
+ab:craig ab:email   "craigellis@yahoo.com"@fr .
+ab:craig ab:email   "c.ellis@usairwaysgroup.com"@en .
